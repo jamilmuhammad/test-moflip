@@ -330,3 +330,11 @@ curl -X POST http://localhost:3000/tickets/t3/resolve \
 3. **Pagination and filtering** for tickets
 4. **Password hashing**
 5. **Frontend framework integration** (React / Vue)
+
+## 📸 Screenshots
+
+### Login Page
+![Login Page](https://github.com/jamilmuhammad/test-moflip/blob/main/assets/login.png?raw=true)
+
+### Dashboard Page
+![Dashboard Page](https://github.com/jamilmuhammad/test-moflip/blob/main/assets/dashboard.png?raw=true)
